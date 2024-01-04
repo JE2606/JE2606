@@ -11,3 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=JE2606&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JE2606&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JE2606&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### ✝️ Cita Bíblica
+Porque Dios nos dio un espíritu no de timidez, sino de poder, de amor y de dominio propio.' - 2 Timoteo 1:7"
